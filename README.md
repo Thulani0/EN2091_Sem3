@@ -1,5 +1,5 @@
 ## EN2091_Sem3
-EN2091 - Laboratory Practice and Projects 
+### EN2091 - Laboratory Practice and Projects 
 
 During the third semester's EN2091-Laboratory Practice and Projects module, our team comprising Sadeep Madhushan, Aaqil Ahamed, Nimesh Fernandopulle, and Thulani Amanda meticulously designed and executed a Linear Power Supply Unit project. Our goal was to create a 10V, 10A Linear Power Supply from scratch, capable of maintaining constant voltage/current for a 100W load from a 230V input.
 Pooling our skills, we collaboratively addressed every aspect of the project with professionalism. This encompassed conceptualization, voltage regulator implementation, PCB design enhancement, and enclosure development. Our efforts culminated in a successful outcome.  
